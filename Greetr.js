@@ -12,7 +12,7 @@
   var greetings = {
     en: "Hello",
     es: "Hola",
-    ga: "Cén chaoi a bhfuil tú"
+    ga: "Cén chaoi a bhfuil tú, a"
   };
 
   // formal greetings

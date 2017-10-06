@@ -19,6 +19,6 @@ $("#login").click(function() {
   // send a HTML greeting, passing the '#greeting' as the selector and the chosen language, and log the welcome as well
   loginGrtr
     .setLang($("#lang").val())
-    .HTMLGreeting("#greeting", true)
+    .HTMLGreeting("#greeting", false)
     .log();
 });
